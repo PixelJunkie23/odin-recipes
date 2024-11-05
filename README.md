@@ -1,6 +1,6 @@
 # odin-recipes
 
-This will be a webpage that I am creating to showcase recipes to demonstrate the skill I have learned in HTML.
+This will be a webpage that I am creating to showcase recipes as to demonstrate the skills I have learned in HTML.
 
 I will have demonstrated the following:
 
